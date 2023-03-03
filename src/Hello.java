@@ -6,6 +6,7 @@ public class Hello {
 		Greeter g = new Greeter();
 		
 		g.greet();
+		g.greet();
 	}
 
 }
