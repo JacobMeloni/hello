@@ -7,7 +7,6 @@ public class Hello {
 		
 		g.greet();
 		g.greet();
-		g.greet();
 	}
 
 }
